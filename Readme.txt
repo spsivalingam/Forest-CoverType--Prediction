@@ -2,7 +2,12 @@
 FOREST COVER TYPE PREDICTION USING PYSPARK
 #################################################
 
-ITCS 6190 - Cloud Computing for Data Analysis
+################################################################################################################################
+
+Implemented Naive Bayers and KNN Algorithm in Pyspark from scratch and compared the results using MLib Packages for accuracy
+
+################################################################################################################################
+
 
 Project/Website Report Link: https://goo.gl/avqXos
 
